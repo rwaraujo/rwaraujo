@@ -1,6 +1,0 @@
-package Hello
-
-sub HelloWorld ()
-{
-	
-}
